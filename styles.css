@@ -51,8 +51,6 @@ header h1 img {
  width: 180px;
  margin-top:-50px;
  margin-left: -30px;
-
-
 }
 
 /* NAV LINKS */
@@ -60,7 +58,7 @@ header nav ul {
   list-style: none;
   display: flex;
   gap: 30px;
-  margin-top: -20px;
+  margin-top: -50px;
 }
 
 /* LINK STYLE */
@@ -137,7 +135,7 @@ header nav ul li a:hover::after {
     display: flex;
     position: absolute;
     right: 20px;
-    margin-top: -17px;
+    margin-top: -50px;
   }
 
 }/* HERO */
