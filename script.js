@@ -179,7 +179,7 @@ function contactDealer(car) {
   `;
 
   window.open(
-    `https://wa.me/+2376716611 20?text=${encodeURIComponent(text)}`,
+    `https://wa.me/+1 (843) 890-8743?text=${encodeURIComponent(text)}`,
     "_blank"
   );
 }
@@ -236,7 +236,7 @@ document.addEventListener("DOMContentLoaded", () => {
       `;
 
       window.open(
-        `https://wa.me/+237 6 71 66 11 20?text=${encodeURIComponent(text)}`,
+        `https://wa.me/+1 (843) 890-8743?text=${encodeURIComponent(text)}`,
         "_blank"
       );
     });
